@@ -1,6 +1,6 @@
 # React Calculator
 
-![App Screenshot](public/Screenshot 2022-08-14 152141.png)
+![App Screenshot](public/demo.png)
 
 Mordern looking calculator
 
